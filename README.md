@@ -1,2 +1,2 @@
 # FinanceFlow
-FinanceFlow é um sistema web de controle financeiro que permite registrar, visualizar e analisar receitas e despesas, ajudando pequenas e médias empresas a manterem o controle do fluxo de caixa.
+FinanceFlow is a web-based financial management system that allows users to record, view, and analyze income and expenses, helping small and medium-sized businesses keep track of their cash flow.
